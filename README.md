@@ -1,24 +1,17 @@
-Here's the modernized README in Markdown format:
+# Interactive Map Dashboard with Python and Streamlit
+A python streamlit dashboard app which visualizes data in an interactive folium map. The dashboard demonstrates *Fraud and Identity Theft Report* published by [Federal Trade Commission](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState).
 
-```markdown
-# 🌍 Interactive Map Dashboard with Python & Streamlit
-
-An interactive dashboard built with Python and Streamlit, visualizing **Fraud and Identity Theft Reports** published by the [Federal Trade Commission](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState) using Folium maps.
-
-## 🚀 Live Demo  
+## Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/zakariachowdhury/streamlit-map-dashboard/main)
 
-## 📸 Preview  
-![App Screenshot](./screenshot.png?raw=true)
+## Screenshot
+![(screenshot)](./screenshot.png?raw=true)
 
-## ⚙️ How to Run  
-```bash
+## How to run this app
+```
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## 👤 Author  
-**Charles Churu**
-```
-
-Save this as `README.md` and it will display beautifully in your repository.
+## Author
+charles Churu
